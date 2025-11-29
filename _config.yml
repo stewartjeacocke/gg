@@ -29,6 +29,8 @@ author:
   name: Stewart Jeacocke
   email: "gg@jeacocke.org.uk"
 
+google_analytics: G-JFHM20XW3Q
+
 # Build settings
 #theme: minima
 remote_theme: "jekyll/minima@bf9ef98"
