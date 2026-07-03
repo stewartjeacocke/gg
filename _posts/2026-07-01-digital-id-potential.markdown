@@ -44,7 +44,7 @@ It joined up primary care organizations, enabling patients to collect medication
 
 Imagine the benefits for both citizens and state if government can automatically provide someone managing a long-term health condition with all eligible support, rather than requiring them to navigate government bureaucracy themselves.
 
-![Life event services]({{ 'assets/Digital_Wallet.avif' | relative_url }})
+![Life event services]({{ 'assets/Digital_Wallet.jpg' | relative_url }})
 
 Investments in digital identity can help to enable customer-centered, whole-sector, service design, by making it easier to identify an individual and confirm their consent. Another key foundation for improved service design is better data sharing.
 
